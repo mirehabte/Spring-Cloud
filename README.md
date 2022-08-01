@@ -1,2 +1,2 @@
 # Spring-Cloud
-Repository for Cloud Training
+Repository for Spring Cloud Training
